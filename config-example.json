@@ -72,7 +72,7 @@
   "freqai": {
     "enabled": true,
     "identifier": "torch-lstm12",
-    "train_period_days": 120,
+    "train_period_days": 1095,
     "fit_live_predictions_candles": 24,
     "backtest_period_days": 30,
     "expiration_hours": 4,
